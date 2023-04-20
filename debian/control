@@ -1,0 +1,12 @@
+Source: ros-iron-rt-manipulators-examples
+Section: misc
+Priority: optional
+Maintainer: RT Corporation <support@rt-net.jp>
+Build-Depends: debhelper (>= 9.0.0), ros-iron-ament-cmake, ros-iron-ament-lint-auto <!nocheck>, ros-iron-ament-lint-common <!nocheck>, ros-iron-rclcpp, ros-iron-rt-manipulators-cpp, ros-iron-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-iron-rt-manipulators-examples
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-iron-rclcpp, ros-iron-rt-manipulators-cpp, ros-iron-ros-workspace
+Description: Examples for RT Manipulators C++ Library
