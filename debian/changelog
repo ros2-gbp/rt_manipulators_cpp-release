@@ -1,0 +1,13 @@
+ros-jazzy-rt-manipulators-cpp (1.1.0-1bookworm) bookworm; urgency=high
+
+  * ROS 2 Jazzyに対応 (#34 <https://github.com/rt-net/rt_manipulators_cpp/pull/34>`_)
+
+ -- RT Corporation <support@rt-net.jp>  Thu, 08 Aug 2024 15:00:00 -0000
+
+ros-jazzy-rt-manipulators-cpp (1.0.0-1bookworm) bookworm; urgency=high
+
+  * ROS 2に対応 (#28 <https://github.com/rt-net/rt_manipulators_cpp/issues/28>)
+
+ -- RT Corporation <support@rt-net.jp>  Sun, 12 Jun 2022 15:00:00 -0000
+
+
