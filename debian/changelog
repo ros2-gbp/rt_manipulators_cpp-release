@@ -1,7 +1,0 @@
-ros-jazzy-rt-manipulators-examples (1.0.0-4noble) noble; urgency=high
-
-  * ROS 2に対応 (#28 <https://github.com/rt-net/rt_manipulators_cpp/issues/28>)
-
- -- RT Corporation <support@rt-net.jp>  Mon, 13 Jun 2022 00:00:00 -0000
-
-
