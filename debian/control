@@ -1,0 +1,12 @@
+Source: ros-kilted-rt-manipulators-cpp
+Section: misc
+Priority: optional
+Maintainer: RT Corporation <support@rt-net.jp>
+Build-Depends: debhelper (>= 9.0.0), libeigen3-dev, libyaml-cpp-dev, ros-kilted-ament-cmake, ros-kilted-ament-lint-auto <!nocheck>, ros-kilted-ament-lint-common <!nocheck>, ros-kilted-dynamixel-sdk, ros-kilted-eigen3-cmake-module, ros-kilted-yaml-cpp-vendor, ros-kilted-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kilted-rt-manipulators-cpp
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libeigen3-dev, libyaml-cpp-dev, ros-kilted-dynamixel-sdk, ros-kilted-eigen3-cmake-module, ros-kilted-yaml-cpp-vendor, ros-kilted-ros-workspace
+Description: RT Manipulators C++ Library
